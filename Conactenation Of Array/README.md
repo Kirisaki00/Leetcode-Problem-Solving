@@ -103,14 +103,7 @@ Runtime: 1 ms || Beats 96.13%
 # 📂 Recommended Folder Structure
 
 ```
-Leetcode-Problem-Solving/
-│
-├── Set-Mismatch/
-│   ├── Solution.java
-│   └── README.md
-│
-└── Concatenation-of-Array/
-    ├── Solution.java
-    ├── README.md
-    └── submission.png
+<img width="1001" height="305" alt="image" src="https://github.com/user-attachments/assets/fa0c6c31-d923-47c1-8827-146969ec5595" />
+
 ```
+
